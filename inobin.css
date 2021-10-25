@@ -1,0 +1,138 @@
+/*Start*/
+*{
+        margin: 0; padding: 0
+        
+}
+
+body{
+        font-family: serif;
+        
+}
+
+#section{
+        
+}
+
+#topBar{
+        background: #aaaaaa;
+        margin: auto;
+}
+
+.container{
+        border: 1px solid black;
+        width: 1080px;
+        padding-left: 5px;
+        padding-right: 5px;
+        margin: auto;
+}
+
+.topBarWrapper{
+        overflow: hidden;
+        
+}
+
+.phone{
+        width: 200px; 
+        float: left;
+        
+}
+
+.email{
+        width: 350px; 
+        float: left;
+        
+}
+
+.social{
+        color: green; 
+        width: 90px; 
+        float: right;
+        
+}
+
+.social a{
+        display: block; 
+        float: left; 
+        padding: 5px;
+        color: #2b2b2b
+        
+}
+
+.topBarWrapper{
+        overflow: hidden;
+}
+
+/*Break-Break-Break-Break-Break-Break*/
+.topBarMenu{
+        
+}
+
+.primaryMenu{
+        
+}
+
+.primaryWrapper{
+        overflow: hidden;
+        width: 100%;
+        
+}
+
+.logo{
+        width: 100px;
+        float: left;
+        
+}
+
+.menu{
+        width: 450px;
+        float: right
+        
+}
+
+.mainMenuItem{
+        list-style: none;
+        float: right; 
+        padding-top: 10px 
+        
+}
+
+.mainMenuItem li{
+        float: left
+        
+}
+
+.mainMenuItem li a{
+        text-decoration: none;
+        text-transform: uppercase; 
+        desplay: block; 
+        padding: 15px; 
+        font-weight: 600
+        
+}
+
+/*Break-Break-Break-Break-Break-Break*/
+
+#homeSlider{
+        background: url(inobin-background.jpeg);
+        border: 1px solid red;
+        background-size: 700px 1000px;
+        
+}
+
+.sliderContent h1{float:left;
+        
+}
+
+.sliderContent p{float:left;
+        
+}
+
+.workBtn{
+        
+}
+
+.sliderNav{
+        width: 10px;
+        height: 5px;
+}
+/*End*/
